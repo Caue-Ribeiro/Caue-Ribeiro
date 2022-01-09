@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Caue-Ribeiro/Caue-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey! I'm Cauê Ribeiro! ✌️
+<div>
+<img height= 180em src= "https://github-readme-stats.vercel.app/api?username=Caue-Ribeiro&show_icons=true&theme=great-gatsby"/>
+<img height= 180em src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Caue-Ribeiro&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+#### Technologies I'm currently studying:
+  
+<div style= display: inline_block><br/>
+<img align= center alt="html5" width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align= center alt="CSS" width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align= center alt="javascript" width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>
+  
