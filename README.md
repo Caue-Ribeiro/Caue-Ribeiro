@@ -11,5 +11,7 @@
 <img align= center alt="html5" width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align= center alt="CSS" width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align= center alt="javascript" width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align= center alt="javascript" width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
   
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
